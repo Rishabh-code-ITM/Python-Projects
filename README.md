@@ -40,74 +40,74 @@ Unlike my Python learning repository, this repository is focused on **projects**
 ## 📁 Repository Structure
 
 ```text id="c7v8q1"
-Python-Projects/
+Python-Projects
 │
-├── 01-Simple-Calculator/
+├── 01-Simple-Calculator
 │   ├── calculator.py
 │   └── README.md
 │
-├── 02-Number-Guessing-Game/
+├── 02-Number-Guessing-Game
 │   ├── guessing_game.py
 │   └── README.md
 │
-├── 03-Quiz-Game/
+├── 03-Quiz-Game
 │   ├── quiz_game.py
 │   └── README.md
 │
-├── 04-Student-Grade-Management/
+├── 04-Student-Grade-Management
 │   ├── student_grade.py
 │   └── README.md
 │
-├── 05-Expense-Tracker/
+├── 05-Expense-Tracker
 │   ├── expense_tracker.py
 │   └── README.md
 │
-├── 06-Contact-Management-System/
+├── 06-Contact-Management-System
 │   ├── contact_manager.py
 │   └── README.md
 │
-├── 07-File-Organizer/
+├── 07-File-Organizer
 │   ├── file_organizer.py
 │   └── README.md
 │
-├── 08-Password-Generator/
+├── 08-Password-Generator
 │   ├── password_generator.py
 │   └── README.md
 │
-├── 09-Weather-App/
+├── 09-Weather-App
 │   ├── weather_app.py
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 10-Data-Analyzer/
+├── 10-Data-Analyzer
 │   ├── data_analyzer.py
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 11-CSV-Data-Analysis/
+├── 11-CSV-Data-Analysis
 │   ├── analysis.py
 │   ├── data.csv
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 12-Web-Scraper/
+├── 12-Web-Scraper
 │   ├── scraper.py
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 13-Automation-Tool/
+├── 13-Automation-Tool
 │   ├── automation.py
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 14-ML-Prediction-Project/
+├── 14-ML-Prediction-Project
 │   ├── train.py
 │   ├── predict.py
 │   ├── dataset.csv
 │   ├── requirements.txt
 │   └── README.md
 │
-├── 15-AI-Project/
+├── 15-AI-Project
 │   ├── app.py
 │   ├── requirements.txt
 │   └── README.md
